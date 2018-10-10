@@ -1,0 +1,405 @@
+/*------------------------------------*\
+    RESPONSIVE
+\*------------------------------------*/
+
+@media only screen and (min-width:320px) {
+
+}
+@media only screen and (min-width:480px) {
+
+}
+@media only screen and (min-width:768px) {
+
+}
+@media only screen and (min-width:1024px) {
+
+}
+@media only screen and (min-width:1140px) {
+
+}
+@media only screen and (min-width:1280px) {
+
+}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+	   only screen and (min-resolution:144dpi) {
+
+}
+
+$white : #ffffff;
+$navy : #022544;
+$nightsky : #002F60;
+$lightblue : #8DD3F0;
+$green : #82BC00;
+
+.navybg{ background-color: $navy !important;}
+.lightbluebg{ background-color: $lightblue !important ;}
+.greenbg{ background-color: $green !important ;}
+
+
+header{
+	z-index: 10;
+	background-color: white;
+	.top{
+		padding: 10px;
+		.logo{
+			i{
+				background-color: black;
+				color: white;
+				padding: 20px;
+			}
+		}
+		.login{
+		  text-align: right;
+			padding: 0px 10px;
+			.location{
+				i{
+					padding: 0px 5px;
+					&:first-child{
+						color: $lightblue;
+					}
+				}
+			}
+			.login-area{
+				background-color: darkgray;
+				padding: 20px;
+		    display: inline-block;
+				i{
+					color: white;
+				}
+			}
+		}
+	}
+	.bottom{
+		padding: 0px 0px 10px 0px;
+		nav.nav{
+			width: 100%;
+			// padding-top: 10px;
+			// padding-bottom: 10px;
+			ul{
+				display: inline-block;
+		    list-style: none;
+		    margin: auto;
+		    width: 100%;
+				padding: 0px;
+		    text-align: center;
+				li{
+					display: inline-block;
+					a{
+						font-size: 15px;
+					}
+			    // padding: 10px 20px;
+				}
+			}
+		}
+		a{
+			padding: 10px 20px;
+			display: inline-block;
+			&.search{
+				font-size: 20px;
+				float: right;
+			}
+			&.image{
+				padding: 5px 15px;
+			}
+		}
+	}
+}
+
+section {
+	// overflow: hidden;
+	div{
+		.subtitle, .content{
+			text-align: center;
+			font-size: 25px;
+		}
+		.subtitle, .content{
+			color: white;
+		}
+		.subtitle{
+		  min-height: 20vh;
+		  background-color: $navy;
+			position: relative;
+			padding-top: 30px;
+			padding-bottom: 30px;
+			p{
+				width: 100%;
+				text-align: center;
+				font-size: 30px;
+			}
+			.icon{
+				position: absolute;
+		    width: 100%;
+		    text-align: center;
+		    left: 0px;
+				bottom: -45px;
+		    z-index: 1;
+				img{
+					height: 90px;
+				}
+			}
+		}
+		.content{
+			padding-top: 50px;
+	    padding-bottom: 50px;
+	    background-color: $lightblue;
+			font-size: 22px;
+
+			&.green, .green{
+				background-color: $green;
+			}
+			&.nightsky, .nightsky{
+				background-color: $nightsky;
+			}
+			&.white, .white{
+				background-color: $white;
+				color: $navy;
+			}
+			p{
+				max-width: 800px;
+				margin: 10px auto;
+			}
+
+			&.windmill-area{
+				padding-top: 0px;
+				padding-bottom: 0px;
+				.sky{
+					background-color: $lightblue;
+					padding: 0px;
+					padding-top: 20px;
+				}
+				svg{
+					margin-bottom: -10px;
+				}
+				.green{
+					.windmill-text-area{
+						max-width: 750px;
+						margin: auto;
+						transform: translateY(-50%);
+						@media(max-width: 900px){
+							transform: translateY(-30%);
+						}
+						@media(max-width: 700px){
+							transform: translateY(0%);
+						}
+						h4{font-size: 30px;}
+						p{font-size: 22px;font-weight: 400;}
+						a{
+							padding: 30px;
+							margin-top: 15px;
+							display: inline-block;
+							width: 100%;
+							font-size: 30px;
+							color: $white;
+							background-color: $navy;
+						}
+					}
+				}
+			}
+			&.battery{
+				background-color: $green;
+				padding-bottom: 0px;
+
+		 	 .batterysvgwithliquid{
+				 max-width: 900px;
+					margin: 40px auto 0px auto;
+		 		 svg{
+		 			 display: block;
+		 			 height: auto;
+		 			 margin-bottom: -10px;
+		 		 }
+		 	 }
+			}
+			.placebrick {
+			    width: 100%;
+			    max-width: 800px;
+			    margin: auto;
+			}
+			.space {
+			    width: 100%;
+			    max-width: 800px;
+			    margin: auto;
+			}
+			.chartwithline{
+			    width: 100%;
+			    max-width: 800px;
+			    margin: auto;
+			}
+			.russuamap{
+			    width: 100%;
+			    max-width: 800px;
+			    margin: auto;
+			}
+			.batterywithsolar {
+				 width: 100%;
+				 max-width: 600px;
+				 margin: auto;
+		 }
+	  }
+	}
+
+	&.hero {
+		height: inherit;
+		overflow: hidden;
+		.herocontent{
+			min-height: 50vh;
+			background-color: $nightsky;
+			.col{
+				text-align: center;
+				.heroareasvg{
+					width: 100%;
+					max-width: 600px;
+					height: 100%;
+					margin: auto;
+					padding-bottom: 50px;
+					svg{
+								height: auto;
+					}
+				}
+			}
+		}
+		.herotitle{
+			min-height: 40vh;
+			p{
+				color: $navy;
+				text-align: center;
+			}
+			p.titlearea{
+				font-size: 30px;
+			}
+			p.contentarea{
+				font-size: 22px;
+			}
+		}
+	}
+	&.hero > * {
+		height: inherit;
+		position: relative;
+		top: inherit;
+	}
+	&.wherediditstart{
+		.content{
+			p{
+				color: $navy;
+				text-align: center;
+				width: 100%;
+				&:first-child{
+					font-size: 30px;
+				}
+			}
+		}
+	}
+	&.bigpicture{}
+	&.rocket{
+		.content{
+			.space{
+				position: relative;
+				.subcontent{
+					position: absolute;
+				  top: 50%;
+				  left: 50%;
+				  transform: translate(-50%, -50%);
+					p{
+						text-align: center;
+						width: 100%;
+						&:first-child{
+							font-size: 30px;
+						}
+					}
+				}
+			}
+			p{
+				text-align: center;
+		    margin: auto;
+		    width: 100%;
+			}
+			.space-area{
+				svg{
+					padding: 65px 0px;
+				}
+			}
+		}
+	}
+	&.chart{}
+	&.solar{}
+	&.map{}
+	&.windmill{}
+
+	&.slide-in{
+		transition: all 0.5s ease-in-out;
+		opacity:0 ;
+		transform: translateY(-100px);
+		&.show{
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+footer{
+	img{
+		padding: 15px 0px;
+	}
+	.black{
+		background-color: black;
+		padding-bottom: 25px;
+		p{
+			font-weight: bold;
+			color: white;
+
+		}
+		a{
+			display: block;
+			color: white;
+			padding: 3px 0px;
+		}
+	}
+	.inline-share{
+		border-bottom: 1px solid rgba(51, 51, 51, 0.16);
+		a{
+			padding: 15px 8px;
+			display: inline-block;
+			&:first-child{
+				padding-left: 0px;
+			}
+		}
+	}
+	.copyright{
+		.copy{
+			p{
+				color: gray;
+			}
+		}
+		.terms{
+			p{
+				padding: 0px 20px;
+			}
+		}
+	}
+}
+
+.path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear alternate infinite;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+svg{
+	width: 100%;
+	height: 100%;
+}
+
+
+// path{
+//     stroke-width: 10px !important;
+//     stroke: transparent !important;
+// 		fill:transparent !important;
+// }

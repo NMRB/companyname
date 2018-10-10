@@ -1,0 +1,181 @@
+<svg id="3e2996d5-e58a-4588-812f-2d2e49edcbca" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 803.33 311.075">
+  <defs>
+    <style>
+      .\34 25ac48f-cc87-448b-8ca0-48f696f0a09c, .\35 6b24107-4f7f-4f35-a35b-4123ef5a8f4e, .\37 073ded5-3e3d-4eeb-929e-331081f33634, .a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0, .b7346f2b-05e5-4164-8cf7-3eb495ae5034, .f80aea0e-0f89-4030-aece-ca7945320b55 {
+        fill: none;
+      }
+
+      .\31 6d0c8e6-9255-4711-801a-c2569141c7c8, .\32 929749e-0da9-4c3c-bed3-3c39248f8014, .\33 3e7bd46-cc04-4bb0-901e-4dcd3c125650, .\33 e29a351-5e9e-42d7-9556-b3196816d728, .\37 9e52dd2-4eef-45e4-a5c6-95de0ea44202, .\39 35c7f14-a60b-47dc-a5d2-c12bfabc4c2a, .\39 53bc122-cd5d-42ff-b795-b00736d57f18, .b53d909b-929f-42f2-aafd-ef82e8a478b0, .e2938612-a661-4778-a0f5-153e387f9bb6 {
+        isolation: isolate;
+      }
+
+      .\32 929749e-0da9-4c3c-bed3-3c39248f8014, .\33 3e7bd46-cc04-4bb0-901e-4dcd3c125650, .\33 e29a351-5e9e-42d7-9556-b3196816d728, .\37 9e52dd2-4eef-45e4-a5c6-95de0ea44202, .\39 35c7f14-a60b-47dc-a5d2-c12bfabc4c2a, .\39 53bc122-cd5d-42ff-b795-b00736d57f18, .b53d909b-929f-42f2-aafd-ef82e8a478b0 {
+        font-size: 22px;
+      }
+
+      .\32 929749e-0da9-4c3c-bed3-3c39248f8014, .\33 3e7bd46-cc04-4bb0-901e-4dcd3c125650, .\33 e29a351-5e9e-42d7-9556-b3196816d728, .\37 9e52dd2-4eef-45e4-a5c6-95de0ea44202, .\39 35c7f14-a60b-47dc-a5d2-c12bfabc4c2a, .\39 53bc122-cd5d-42ff-b795-b00736d57f18, .b53d909b-929f-42f2-aafd-ef82e8a478b0, .e2938612-a661-4778-a0f5-153e387f9bb6, .efe9badb-7da1-401e-8ac1-e4527ee1cf7f {
+        fill: #fff;
+      }
+
+      .\37 9e52dd2-4eef-45e4-a5c6-95de0ea44202, .\39 35c7f14-a60b-47dc-a5d2-c12bfabc4c2a, .\39 53bc122-cd5d-42ff-b795-b00736d57f18, .e2938612-a661-4778-a0f5-153e387f9bb6 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .\39 53bc122-cd5d-42ff-b795-b00736d57f18 {
+        letter-spacing: 0.01em;
+      }
+
+      .\33 3e7bd46-cc04-4bb0-901e-4dcd3c125650, .\37 9e52dd2-4eef-45e4-a5c6-95de0ea44202 {
+        letter-spacing: -0.01em;
+      }
+
+      .\32 929749e-0da9-4c3c-bed3-3c39248f8014, .\33 3e7bd46-cc04-4bb0-901e-4dcd3c125650, .\33 e29a351-5e9e-42d7-9556-b3196816d728, .b53d909b-929f-42f2-aafd-ef82e8a478b0 {
+        font-family: ArialMT, Arial;
+      }
+
+      .\33 e29a351-5e9e-42d7-9556-b3196816d728 {
+        letter-spacing: 0.02em;
+      }
+
+      .b53d909b-929f-42f2-aafd-ef82e8a478b0 {
+        letter-spacing: -0.04em;
+      }
+
+      .\30 b81bd5f-3d4b-43d0-b596-d21befd3f0b0 {
+        fill: #d3d800;
+      }
+
+      .\34 9fb990a-dcf0-47c8-9653-11fc2ae36226 {
+        clip-path: url(#e1217e1d-983b-448e-a67d-4efb2e12d384);
+      }
+
+      .\31 90fc47e-b7c8-43fd-847a-5584c9205707 {
+        opacity: 0.3;
+      }
+
+      .\35 6b24107-4f7f-4f35-a35b-4123ef5a8f4e, .\37 073ded5-3e3d-4eeb-929e-331081f33634, .a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0 {
+        stroke: #fff;
+      }
+
+      .\34 25ac48f-cc87-448b-8ca0-48f696f0a09c, .\37 073ded5-3e3d-4eeb-929e-331081f33634, .a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0 {
+        stroke-miterlimit: 10;
+      }
+
+      .\37 073ded5-3e3d-4eeb-929e-331081f33634 {
+        stroke-width: 13.2px;
+      }
+
+      .e2938612-a661-4778-a0f5-153e387f9bb6 {
+        font-size: 70px;
+      }
+
+      .b3e89a81-4904-45fe-85b6-6cd5ff77d648 {
+        clip-path: url(#de3f698f-4d40-4748-b753-1125686933ca);
+      }
+
+      .\35 6b24107-4f7f-4f35-a35b-4123ef5a8f4e, .f80aea0e-0f89-4030-aece-ca7945320b55 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .\34 25ac48f-cc87-448b-8ca0-48f696f0a09c, .\35 6b24107-4f7f-4f35-a35b-4123ef5a8f4e, .a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0 {
+        stroke-width: 8.49px;
+      }
+
+      .\34 25ac48f-cc87-448b-8ca0-48f696f0a09c, .f80aea0e-0f89-4030-aece-ca7945320b55 {
+        stroke: #d3d800;
+      }
+
+      .f80aea0e-0f89-4030-aece-ca7945320b55 {
+        stroke-width: 8.71px;
+      }
+    </style>
+    <clipPath id="e1217e1d-983b-448e-a67d-4efb2e12d384" transform="translate(0.005 0)">
+      <rect class="b7346f2b-05e5-4164-8cf7-3eb495ae5034" x="267.43" y="13.93" width="240.29" height="91.13" rx="15.17" ry="15.17"/>
+    </clipPath>
+    <clipPath id="de3f698f-4d40-4748-b753-1125686933ca" transform="translate(0.005 0)">
+      <rect class="b7346f2b-05e5-4164-8cf7-3eb495ae5034" x="-0.05" y="24.72" width="803.37" height="282"/>
+    </clipPath>
+  </defs>
+  <title>batterysvgwithliquid</title>
+  <g id="488a767b-60d3-4fdf-a714-e996c366eae3" data-name="Layer 2">
+    <g id="e6709195-9aeb-48e5-a827-a804532ab7f2" data-name="Layer 1-2">
+      <g id="6413729f-4c9a-4afa-85ac-2f946339e180" data-name="Layer 2-2">
+        <g id="9f25fc4d-311d-4943-9b15-435c8f203522" data-name="big picture">
+          <g>
+            <text class="953bc122-cd5d-42ff-b795-b00736d57f18" transform="translate(282.415 172.89)">S</text>
+            <text class="935c7f14-a60b-47dc-a5d2-c12bfabc4c2a" transform="translate(293.395 172.89)">ou</text>
+            <text class="79e52dd2-4eef-45e4-a5c6-95de0ea44202" transform="translate(317.595 172.89)">r</text>
+            <text class="79e52dd2-4eef-45e4-a5c6-95de0ea44202" transform="translate(324.565 172.89)">c</text>
+            <text class="935c7f14-a60b-47dc-a5d2-c12bfabc4c2a" transform="translate(334.295 172.89)">e:</text>
+            <g class="16d0c8e6-9255-4711-801a-c2569141c7c8">
+              <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(349.865 172.89)"><tspan xml:space="preserve"> US </tspan></text>
+            </g>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(384.265 172.89)">D</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(399.015 172.89)">epa</text>
+            <text class="3e29a351-5e9e-42d7-9556-b3196816d728" transform="translate(433.155 172.89)">r</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(440.875 172.89)">tme</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(477.515 172.89)">n</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(489.655 172.89)">t of</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(316.285 202.89)">Ene</text>
+            <text class="33e7bd46-cc04-4bb0-901e-4dcd3c125650" transform="translate(350.325 202.89)">r</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(357.355 202.89)">g</text>
+            <text class="b53d909b-929f-42f2-aafd-ef82e8a478b0" transform="translate(369.655 202.89)">y</text>
+            <text class="2929749e-0da9-4c3c-bed3-3c39248f8014" transform="translate(379.165 202.89)">, June 2018.</text>
+          </g>
+          <g>
+            <g>
+              <path class="efe9badb-7da1-401e-8ac1-e4527ee1cf7f" d="M551.03,43.25V33.67A14.23,14.23,0,0,0,536.8,19.44h-9.35V8.81A8.8,8.8,0,0,0,518.66,0H259.11a8.8,8.8,0,0,0-8.81,8.79V41.15a19.71,19.71,0,0,1,0,35.09v35.68a8.83,8.83,0,0,0,8.81,8.81H518.64a8.8,8.8,0,0,0,8.81-8.79V101.86h9.35a14.23,14.23,0,0,0,14.23-14.22V79.55a19.72,19.72,0,0,1,0-36.3Z" transform="translate(0.005 0)"/>
+              <rect class="0b81bd5f-3d4b-43d0-b596-d21befd3f0b0" x="267.445" y="13.93" width="240.29" height="91.13" rx="15.17" ry="15.17"/>
+              <g class="batteryfluid 49fb990a-dcf0-47c8-9653-11fc2ae36226">
+                <g>
+                  <g class="batterybars 190fc47e-b7c8-43fd-847a-5584c9205707">
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="183.235" y1="116.85" x2="290.415" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="219.925" y1="116.85" x2="327.105" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="256.605" y1="116.85" x2="363.785" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="293.285" y1="116.85" x2="400.455" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="329.955" y1="116.85" x2="437.135" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="366.635" y1="116.85" x2="473.815" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="403.315" y1="116.85" x2="510.505" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="444.435" y1="116.85" x2="551.615" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="481.105" y1="116.85" x2="588.295" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="517.795" y1="116.85" x2="624.975" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="554.475" y1="116.85" x2="661.655" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="591.155" y1="116.85" x2="698.325" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="627.825" y1="116.85" x2="735.005" y2="9.67"/>
+                    <line class="7073ded5-3e3d-4eeb-929e-331081f33634" x1="664.505" y1="116.85" x2="771.685" y2="9.67"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <path class="efe9badb-7da1-401e-8ac1-e4527ee1cf7f" d="M494.03,12.57s-15.36,11.31-2.43,34.75,10.51,48.49,2.43,55.76,17.78,17.78,21,1.62,6.47-55,6.47-55-4.85-38.79-12.13-42S494.03,12.57,494.03,12.57Z" transform="translate(0.005 0)"/>
+          </g>
+          <text class="e2938612-a661-4778-a0f5-153e387f9bb6" transform="translate(302.095 85)" id="counter">0%</text>
+          <g class="b3e89a81-4904-45fe-85b6-6cd5ff77d648">
+            <g>
+              <g>
+                <path class="56b24107-4f7f-4f35-a35b-4123ef5a8f4e" d="M275.4,306.72V264.46a6.37,6.37,0,0,0-6.36-6.38H216.72a6.379,6.379,0,0,1-6.38-6.38h0V199.38" transform="translate(0.005 0)"/>
+                <circle class="a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0" cx="210.345" cy="189.48" r="9.21"/>
+              </g>
+              <g>
+                <path class="56b24107-4f7f-4f35-a35b-4123ef5a8f4e" d="M530.7,306.72V264.46a6.379,6.379,0,0,1,6.38-6.38h52.3a6.379,6.379,0,0,0,6.38-6.38h0V199.38" transform="translate(0.005 0)"/>
+                <circle class="a87dc5ca-e1c6-4580-8b99-ecc45c79a1c0" cx="596.455" cy="189.48" r="9.21"/>
+              </g>
+              <g>
+                <path class="f80aea0e-0f89-4030-aece-ca7945320b55" d="M649.86,306.72V188.38l.88-127.16-50.5-.37-32-.13" transform="translate(0.005 0)"/>
+                <circle class="425ac48f-cc87-448b-8ca0-48f696f0a09c" cx="559.185" cy="61.85" r="9.21"/>
+              </g>
+              <path class="56b24107-4f7f-4f35-a35b-4123ef5a8f4e" d="M84.81,306.72V244.48a6.37,6.37,0,0,0-6.36-6.38H10.57a6.38,6.38,0,0,0-6.33,6.36v62.26" transform="translate(0.005 0)"/>
+              <path class="56b24107-4f7f-4f35-a35b-4123ef5a8f4e" d="M799.08,306.72V241.65a6.379,6.379,0,0,0-6.38-6.38H724.84a6.379,6.379,0,0,0-6.38,6.38h0v65.07" transform="translate(0.005 0)"/>
+              <g>
+                <path class="f80aea0e-0f89-4030-aece-ca7945320b55" d="M149.85,306.72V185.38l-.9-127.16,50.5-.37,32-.13" transform="translate(0.005 0)"/>
+                <circle class="425ac48f-cc87-448b-8ca0-48f696f0a09c" cx="240.545" cy="58.85" r="9.21"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
